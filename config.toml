@@ -1,13 +1,3 @@
-[saved-toto]
-db-servers-hosts = "db1,db2"
-prov-db-cpu-cores = "2"
-prov-db-disk-size = "700"
-prov-db-memory = "1024"
-prov-proxy-cpu-cores = "4"
-prov-proxy-disk-size = "80"
+[saved-toto2]
+prov-db-tags = "semisync,row,innodb,noquerycache,threadpool,slow,pfs,linux,readonly,diskmonitor,sqlerror,compressbinlog"
 prov-service-plan = "x2.tiny"
-proxysql = true
-proxysql-admin-port = "3306"
-proxysql-servers = "proxysql1"
-shardproxy = true
-shardproxy-servers = "shardproxy1:3306"
