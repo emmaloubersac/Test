@@ -1,3 +1,1 @@
-[saved-toto2]
-prov-db-tags = "semisync,row,innodb,noquerycache,threadpool,slow,pfs,linux,readonly,diskmonitor,sqlerror,compressbinlog"
-prov-service-plan = "x2.tiny"
+[saved-toto]
