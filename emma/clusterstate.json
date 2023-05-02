@@ -1,0 +1,13 @@
+{
+	"servers": "db1,db2",
+	"crashes": null,
+	"sla": {
+		"firsttime": 1683012851,
+		"lasttime": 1683012871,
+		"uptime": 9,
+		"uptimeFailable": 9,
+		"uptimeSemisync": 9
+	},
+	"slaHistory": null,
+	"provisioned": false
+}
