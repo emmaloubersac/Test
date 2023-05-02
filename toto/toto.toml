@@ -11,3 +11,5 @@ prov-service-plan = "x2.tiny"
 proxysql = true
 proxysql-admin-port = "3306"
 proxysql-servers = "proxysql1"
+shardproxy = true
+shardproxy-servers = "shardproxy1:3306"
