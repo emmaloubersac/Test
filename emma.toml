@@ -1,4 +1,2 @@
 [saved-emma]
 title = "emma" 
-backup-binlogs = true
-prov-db-apply-dynamic-config = true
