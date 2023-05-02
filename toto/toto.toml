@@ -1,7 +1,6 @@
 [saved-toto]
 title = "toto" 
 db-servers-hosts = "db1,db2"
-db-servers-prefered-master = "db1"
 prov-db-cpu-cores = "2"
 prov-db-disk-size = "700"
 prov-db-memory = "1024"
@@ -11,5 +10,5 @@ prov-service-plan = "x2.tiny"
 proxysql = true
 proxysql-admin-port = "3306"
 proxysql-servers = "proxysql1"
-#shardproxy = true
-#shardproxy-servers = "shardproxy1:3306"
+shardproxy = true
+shardproxy-servers = "shardproxy1:3306"
