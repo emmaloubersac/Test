@@ -1,3 +1,1 @@
 [overwrite-emma]
-prov-db-tags = "readonly,docker,linux,innodb,noquerycache,threadpool,slow,ssd,localinfile,nodoublewrite,compressbinlog,noadaptiveflush,relayspacelimit,optimistic,sqlerror,semysync"
-
