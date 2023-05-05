@@ -1,6 +1,6 @@
 [saved-tata]
 title = "tata" 
-db-servers-credential = "root:c818eed46c3cd8ce10a8befe79cbae28725bcf2f"
+db-servers-credential = "root:27dd2bd09a72697375e0a2bf5d47779b5ebcbac0"
 db-servers-hosts = "db1,db2"
 prov-db-cpu-cores = "2"
 prov-db-disk-size = "700"
@@ -11,6 +11,6 @@ prov-service-plan = "x2.tiny"
 proxysql = true
 proxysql-servers = "proxysql1"
 proxysql-user = "external"
-replication-credential = "root:e53b3fb886fda2735e0fca927c5916765f101e9b"
+replication-credential = "root:f5166df6cdd8a1febeb78cd2c79eae621360d43c"
 shardproxy = true
 shardproxy-servers = "shardproxy1:3306"
