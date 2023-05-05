@@ -10,6 +10,5 @@ prov-service-plan = "x2.tiny"
 proxysql = true
 proxysql-servers = "proxysql1"
 proxysql-user = "external"
-replication-credential = "root:9bb9acbd9ed03b360dcd3e9eb92f15f67bfac6ce"
 shardproxy = true
 shardproxy-servers = "shardproxy1:3306"
