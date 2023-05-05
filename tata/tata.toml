@@ -1,6 +1,6 @@
 [saved-tata]
 title = "tata" 
-db-servers-credential = "root:22be831f3d0c75ffa71fccca5ac1dc2bf849da79b70598c58dbcfa07108734fb502e6e97376ee732bd10858dadaaa00106853896e2232639"
+db-servers-credential = "root:4bea2737a4e67e3f4858dffb32250a97022a5f084f7f3ffb9957e9674a15ca220d6470d7b64547bd05e230222ad589f83009540050f9208e1bbdc2fa00b9c30180ab51b12b5feed0c86f6f112ba17a12ef1b5a8284d7c7900832d871336c9842690fb2e0b25e34e2ba5f0969b19106b22d5ffbed1a48b602999c7599ac1c2da0"
 db-servers-hosts = "db1,db2"
 prov-db-cpu-cores = "2"
 prov-db-disk-size = "700"
@@ -11,6 +11,6 @@ prov-service-plan = "x2.tiny"
 proxysql = true
 proxysql-servers = "proxysql1"
 proxysql-user = "external"
-replication-credential = "undefined:f75a60136c2c421fd3d9cb66c0c88d98e2bb6ecd01d8d9e193"
+replication-credential = "undefined:9ac24170b86c7b685d27fd00c6aeecc20a96dc28c381ffc9e25c583a7dde670524bf472237bbea8f11b79aa81af3298e909d4268ddbdf24980a6c5f04067a2bc7873"
 shardproxy = true
 shardproxy-servers = "shardproxy1:3306"
