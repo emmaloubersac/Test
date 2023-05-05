@@ -1,2 +1,3 @@
 [saved-emma]
 title = "emma" 
+prov-db-apply-dynamic-config = true
