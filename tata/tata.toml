@@ -1,6 +1,6 @@
 [saved-tata]
 title = "tata" 
-db-servers-credential = "root:189f790c514e96f0f16afc1d7d4df2a4e43c706f"
+db-servers-credential = "root:b18254ade68f18e480df9f06fafc6f5c87b3da79"
 db-servers-hosts = "db1,db2"
 prov-db-cpu-cores = "2"
 prov-db-disk-size = "700"
