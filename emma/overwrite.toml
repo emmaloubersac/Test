@@ -1,7 +1,7 @@
 [overwrite-emma]
-db-servers-credential = "root:3d3ed5f1b7e9e0088bcff704d28823ead179c409cb8c813e"
-mail-smtp-password = "957f143a0401b284d8c83137ed732425"
-opensvc-p12-secret = "b82dc47efe7473b1a083ec102ce9ce0d819284f2c3c0dd820c40ffd571f2396a"
-proxysql-password = "fd6c3cb566e18024f66296cf85dc02add01e07b651b62227"
-replication-credential = "root:8cbcdf67987ada7dc123f43f1144bdb629cdf9a20b0f03e9"
-vault-secret-id = "dab59ca1948652e73d118bf42abbfb5bf6232d235857c705bb18bc6c25b9ddaabdfe0e7ec7c1c5609b6cba5068cf503c5bfbed4a"
+db-servers-credential = "root:4325273661766054bf786f9e062882f0054c25d1fb339e0b"
+mail-smtp-password = "ddf015797405f0aa57fcb0f2c7463216"
+opensvc-p12-secret = "2892637c48b2df99ee72b403df6a1275a8b0f4b2d8bc19ab306bcaaa2b74a3c1"
+proxysql-password = "816c8dc54546b5bcb905f60e85cf493834bc17ed423460a9"
+replication-credential = "root:4b166610f95f168375e76a85d36eb04b884fe5d2e848858b"
+vault-secret-id = "4f4d19dc1596a2d2a937f8fe8d4a2bf9ae1c1dd7f97f6573c12599012c3fcfddec9eb2c5a09002a140c74ce0650918edf3e70030"
