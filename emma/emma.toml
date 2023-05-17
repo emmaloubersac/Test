@@ -1,6 +1,0 @@
-[saved-emma]
-title = "emma" 
-scheduler-db-servers-logical-backup = false
-scheduler-db-servers-logs-table-rotate = false
-scheduler-db-servers-optimize = false
-scheduler-jobs-ssh = true
