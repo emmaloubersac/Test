@@ -1,7 +1,0 @@
-[overwrite-emma]
-db-servers-credential = "root:01366501cad770ee6abed34d0dc389d474383878d3bbe598"
-mail-smtp-password = "05903b9382726306af42cedacf7168bd"
-opensvc-p12-secret = "853d5b968e8ebae7cc80e0b8e43ae4e70c2620b78cc07cc52785f47fb72caa94"
-proxysql-password = "03de04192ba7a612f0e110c900eecb86a1d5313b2e87ffaf"
-replication-credential = "root:e74e5a6b8b991fbf2c3d252830c16e0d17144e1f05c454ee"
-vault-secret-id = "d528e05124423a3d377bd7308fb076a0203e7e18ad558d736862cb19acbfd359b2795eb2353ee843afa18e3765ab957ba7ffb65a"
