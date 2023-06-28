@@ -2,8 +2,8 @@
 	"servers": "db1,db2",
 	"crashes": null,
 	"sla": {
-		"firsttime": 1687957465,
-		"lasttime": 1687957465,
+		"firsttime": 1687957540,
+		"lasttime": 1687957540,
 		"uptime": 0,
 		"uptimeFailable": 0,
 		"uptimeSemisync": 0
